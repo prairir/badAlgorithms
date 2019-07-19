@@ -39,11 +39,14 @@ next lines are standard, its just checking if its out of order and then swaping 
 
 when it does this it resets the loop to start at the beggining. instead of bubble sort we get a bubble sort that is 
 
-    1. harder to read
-    1. complicated to follow along
-    1. doesnt have the small effiencies that bubble sort has
+1. harder to read
+1. complicated to follow along
+1. doesnt have the small effiencies that bubble sort has
 
 Worst Case Time: O(n^2)
+
 Average Case Time: O(n^2)
+
 Best Case Time: O(n)
+
 All Case Memory: O(1)
