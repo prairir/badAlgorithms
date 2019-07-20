@@ -11,3 +11,4 @@ Like Rosetta Code but for bad algorithms that shouldn't be used. Each Algorithm 
 ### list of algorithms
 
 * Matt Sort
+* Drop Sort
