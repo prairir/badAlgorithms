@@ -8,7 +8,17 @@ Like Rosetta Code but for bad algorithms that shouldn't be used. Each Algorithm 
 
 
 
-### list of algorithms
+## list of algorithms
+
+
+### Sorting Algorithms
 
 * Matt Sort
 * Drop Sort
+* Bogo Sort
+
+### Misc
+
+* Dance
+
+
