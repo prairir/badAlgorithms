@@ -16,6 +16,7 @@ Like Rosetta Code but for bad algorithms that shouldn't be used. Each Algorithm 
 * Matt Sort
 * Drop Sort
 * Bogo Sort
+* Single Sort
 
 ### Misc
 
