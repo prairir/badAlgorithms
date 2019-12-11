@@ -9,7 +9,8 @@ lets break it down. The example is in java
 
 first we initialize the wall.
 
-```java int wall = array.get(0);
+```java 
+   int wall = array.get(0);
 ```
 
 it runs a loop from 0 to the size of the array.
